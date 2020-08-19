@@ -1,0 +1,13 @@
+{
+    "name": "com.neuecc.unirx",
+    "displayName": "UniRx",
+    "version": "7.1.0",
+    "unity": "2018.3",
+    "description": "Reactive Extensions for Unity, Package wrapper for https://github.com/neuecc/UniRx",
+    "license": "MIT",
+    "dependencies": {},
+	"author": {
+		"name": "Yoshifumi Kawai (neuecc)"
+	},
+	"type": "library"
+}
